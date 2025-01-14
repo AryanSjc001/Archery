@@ -29,6 +29,7 @@ This is a browser-based arrow shooting game that involves shooting arrows at a m
 5. **Scoring**:
    - Hitting closer to the center of the board gives higher scores.
    - Special effects and bonuses are triggered for high scores.
+   - When you hit the center you score 8 points and then as you hit the board away from the center, the points keep decreasing.
 
 6. **Game Over**:
    - The game ends when you run out of arrows.
